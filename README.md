@@ -1,8 +1,11 @@
 # computer-architecture_123
 
-MICRO - OVEN BASED ON 2 PASS ASSEMBLER
-We have use used QT for ui to display our working of 2 pass assembler
+MICRO - OVEN
 
+BASED ON 2 PASS ASSEMBLER
+
+
+We have use used QT for ui to display our working of 2 pass assembler
 
 to execute it
 
