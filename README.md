@@ -1,3 +1,6 @@
+
+
+
 # computer-architecture_123
 
 MICRO - OVEN
@@ -15,6 +18,7 @@ to execute it
 
 
 
+https://user-images.githubusercontent.com/60310438/124092607-adb03580-da74-11eb-84f1-5bd4cc24c4d1.mov
 
 ![image](https://user-images.githubusercontent.com/60310438/119231351-1c2cda00-bb3e-11eb-9537-7b36585af85b.png)
 
